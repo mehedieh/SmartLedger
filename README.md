@@ -181,7 +181,6 @@ SmartLedger aims to provide a fast, secure, and intelligent business management 
 
 # 📸 Screenshots
 
-> Add screenshots of your application here.
 
 ```
 screenshots/
